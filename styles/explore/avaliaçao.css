@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #alia {
     margin-top: 300px;
     padding: 100px 200px;
@@ -117,3 +118,124 @@
     align-items: center;
     justify-content: center;
 }
+=======
+#alia {
+    margin-top: 300px;
+    padding: 100px 200px;
+    background-color: black;
+}
+
+.alia-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.info-box {
+    flex: 1;
+    max-width: 450px;
+}
+
+.avalia {
+    color: white;
+    font-size: 36px;
+    margin-bottom: 30px;
+    line-height: 1.2;
+}
+
+.avl {
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.testimonial-card {
+    flex: 1;
+    max-width: 500px;
+    background-color: #1c1c1c;
+    color: white;
+    padding: 30px;
+    border-radius: 16px;
+    font-family: sans-serif;
+    position: relative;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.stars {
+    color: #FFA500;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+
+.user-photo {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.user-details {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
+}
+
+.user-details strong {
+    font-weight: 600;
+}
+
+.user-details span {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.testimonial-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dots {
+    display: flex;
+    gap: 8px;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background-color: #555;
+    border-radius: 50%;
+}
+
+.dot.active {
+    background-color: #00e5ff;
+}
+
+.arrow-button {
+    background-color: white;
+    color: #00e5ff;
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+>>>>>>> 9f4a5d8f6bf7dc53cde9f3a252320c40c6444c4f
