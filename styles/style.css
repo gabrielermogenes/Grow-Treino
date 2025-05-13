@@ -28,7 +28,7 @@ transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .button2{
-  
+    
     background-color: red;
     
     transition: background-color 0.3s ease, transform 0.3s ease;
@@ -39,6 +39,11 @@ transition: background-color 0.3s ease, transform 0.3s ease;
 }
 .button1:hover{
     transform: scale(1.05);
+}
+
+#bnt2{
+    margin-top: 25px;
+    width: 250px;
 }
 
 

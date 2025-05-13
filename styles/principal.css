@@ -1,10 +1,11 @@
 .title1{
     color: white;
-    font-size: 42px;
+    font-size: 62px;
+    margin-bottom: 24px;
 }
 .pagrag1{
     color: white;
-    font-size: 17px;
+    font-size: 20px;
     margin: 1px 0px 11px 0px;
     
 }
@@ -26,5 +27,5 @@ align-items: center;
     max-width: 450px; 
     height: auto;
     width: 100%;
-    margin: 35px  0px 0px 300px;
+    margin: 35px  0px 0px 200px;
 }
