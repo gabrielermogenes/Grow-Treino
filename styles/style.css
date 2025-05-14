@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     margin: 0;
     padding: 0;
@@ -48,54 +48,3 @@ transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 
-=======
-*{
-    margin: 0;
-    padding: 0;
-   box-sizing: border-box;
-   font-family: "Urbanist", sans-serif;
-   
-}
-
-body{
-    background-color: black;
-   
-}
-
-a{
-    text-decoration: none;
-    color: white;
-}
-
-
-
-.button1{
-    border: 2px solid #ffffff;
-    background-color: black;
-  
-transition: background-color 0.3s ease, transform 0.3s ease;
-
-
-}
-
-.button2{
-    
-    background-color: red;
-    
-    transition: background-color 0.3s ease, transform 0.3s ease;
-}
-
-.button2:hover{
-    transform: scale(1.05);
-}
-.button1:hover{
-    transform: scale(1.05);
-}
-
-#bnt2{
-    margin-top: 25px;
-    width: 250px;
-}
-
-
->>>>>>> 9f4a5d8f6bf7dc53cde9f3a252320c40c6444c4f

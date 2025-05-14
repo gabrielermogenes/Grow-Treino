@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 header{
     display: flex;
     margin:10px 60px 0px 60px;
@@ -26,9 +26,7 @@ nav > ul{
     list-style-type: none
 }
 
-#logo{
 
-}
 .button1, .button2{
     color: white;
     height: 40px;
@@ -39,45 +37,3 @@ nav > ul{
     font-size: 14px;
     
 }
-=======
-header{
-    display: flex;
-    margin:10px 60px 0px 60px;
-    color: white;
-   flex-direction: row;
-   justify-content: space-between;
-   align-items: center;
-}
-
- nav{
-        display: flex;
-         gap: 10px;
-         align-items: center;
-    
-    }
-
-.nav-bar{
-   gap: 18px;
- display: flex;
- margin-right: 23px;
- 
-}
-
-nav > ul{
-    list-style-type: none
-}
-
-#logo{
-
-}
-.button1, .button2{
-    color: white;
-    height: 40px;
-    width: 110px;
-    padding: 10px;
-    border-radius: 10px;
-    text-align: center;
-    font-size: 14px;
-    
-}
->>>>>>> 9f4a5d8f6bf7dc53cde9f3a252320c40c6444c4f
