@@ -48,7 +48,7 @@
     background-color: #151515;
     color: white;
     width: 20em;
-    height: 40em;
+    height: 42em;
     border-radius: 4px 18px 18px 18px ;
     padding: 29px;
     transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
@@ -79,10 +79,17 @@
 
 .list3 {
     list-style: none;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 
 }
 
+#bugfl{
+    margin-bottom: 89px;
+}
+
+#bugfl2{
+    margin-bottom: 137px;
+}
 .list3 li {
     position: relative;
     padding-left: 25px;
