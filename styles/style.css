@@ -22,29 +22,24 @@ a{
 .button1{
     border: 2px solid #ffffff;
     background-color: black;
-  
-transition: background-color 0.3s ease, transform 0.3s ease;
-
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    margin-right: 20px;
 
 }
 
 .button2{
-    
     background-color: red;
-    
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .button2:hover{
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 .button1:hover{
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 
 #bnt2{
     margin-top: 25px;
     width: 250px;
 }
-
-

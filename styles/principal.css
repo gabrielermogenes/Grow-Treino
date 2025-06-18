@@ -31,4 +31,5 @@ align-items: center;
     position: fixed;
     right: 131px;
     top: 301px;
+    z-index: -2;
 }
