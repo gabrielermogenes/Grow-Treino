@@ -50,7 +50,7 @@ O **Grow-Treino** é um projeto que visa oferecer uma experiência simplificada 
    npx http-server
 ## 🖼️ Prévia Visual
 
-<img width="1914" height="893" alt="image" src="https://github.com/user-attachments/assets/7602e77b-642b-4c53-bdab-147be33ef775" />
+<img width="1914" height="888" alt="image" src="https://github.com/user-attachments/assets/a6bdc028-df14-4066-9e89-330e77a6fbee" />
 
 ---
 
