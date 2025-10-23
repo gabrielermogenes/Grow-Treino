@@ -46,6 +46,76 @@ O **Grow-Treino** é um projeto que visa oferecer uma experiência simplificada 
 
    
 3. Abra o arquivo index.html no navegador ou use um servidor local, por exemplo:
-  ```bash
-  npx http-server
+   ```bash
+   npx http-server
+## 🖼️ Prévia Visual
+
+<img width="1914" height="893" alt="image" src="https://github.com/user-attachments/assets/7602e77b-642b-4c53-bdab-147be33ef775" />
+
+---
+
+## 💡 Melhorias Futuras
+
+🔐 Sistema de login e autenticação
+
+💾 Integração com banco de dados para salvar treinos e histórico
+
+📈 Dashboard com gráficos de progresso
+
+📱 Aplicativo PWA para uso offline
+
+🌙 Tema escuro/claro e personalização visual
+
+🧠 Sugestões automáticas de treinos com base no desempenho
+
+## 🤝 Contribuindo com o Projeto
+
+Contribuições são muito bem-vindas!
+Siga o fluxo abaixo 👇
+
+# 1️⃣ Faça um fork do repositório
+git fork https://github.com/gabrielermogenes/Grow-Treino.git
+
+# 2️⃣ Clone o seu fork
+git clone https://github.com/<seu-usuario>/Grow-Treino.git
+
+# 3️⃣ Crie uma nova branch para sua feature ou correção
+git checkout -b feature/minha-nova-feature
+
+# 4️⃣ Faça as alterações desejadas e confirme
+git add .
+git commit -m "Adiciona nova funcionalidade: descrição breve"
+
+# 5️⃣ Envie para o seu repositório remoto
+git push origin feature/minha-nova-feature
+
+# 6️⃣ Abra um Pull Request no repositório original
+# Descreva claramente o que foi feito e por quê :)
+
+💡 Dica: Use commits claros e pequenos, e adicione prints ou gifs mostrando o que mudou.
+
+---
+🧠 Padrões de Contribuição
+
+✅ Código limpo e bem comentado
+
+✅ Seguir o estilo do projeto (HTML semântico, CSS organizado, JS legível)
+
+✅ Evite dependências desnecessárias
+
+✅ Sempre testar antes de enviar o PR
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.
+Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos originais.
+
+Feito com 💪 e ☕ por Gabriel Ermogenes
+
+---
+
+Quer que eu gere também uma **versão em inglês** (para atrair contribuições internacionais) ou uma versão com **logo e banner personalizados** no topo do README?  
+Posso criar ambos automaticamente.
 
