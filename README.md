@@ -1,90 +1,51 @@
-💪 Grow Treino - Landing Page (Front-end)
-🚀 Live Demo
-Explore o projeto em funcionamento aqui: https://grow-treino.vercel.app
+# 🏋️ Grow-Treino
 
-📄 Descrição do Projeto
-O Grow Treino é uma landing page e site institucional totalmente responsivo, desenvolvida como a interface visual (front-end) para uma empresa fictícia focada em treinos e vestuário esportivo. O objetivo principal deste projeto foi criar uma experiência de usuário visualmente atraente e funcional, destacando os serviços de treinamento, planos de assinatura e produtos (roupas).
+> Aplicativo/plataforma voltada para treinos físicos, acompanhamentos e progresso 🏃‍♂️
 
-Este site demonstra habilidades sólidas em estruturação HTML, estilização CSS avançada (incluindo responsividade e animações), e interatividade básica com JavaScript, entregando um produto final com foco na usabilidade e no design moderno.
+![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Built with](https://img.shields.io/badge/built%20with-HTML%2C%20CSS%2C%20JS-orange)
 
-✨ Tecnologias Utilizadas
-HTML5: Estruturação semântica e acessível do conteúdo.
+---
 
-CSS3: Estilização completa da interface, incluindo:
+## 🎯 Visão Geral
 
-Design Responsivo (@media queries) para adaptação perfeita a diferentes dispositivos (desktops, tablets, celulares).
+O **Grow-Treino** é um projeto que visa oferecer uma experiência simplificada e eficaz para que usuários possam acompanhar seus treinos, registrar progresso, e acessar rotinas de exercícios. Ele busca promover saúde, bem-estar e consistência nos treinos.
 
-Utilização de variáveis CSS (--var) para gerenciamento de cores e temas.
+---
 
-Animações e transições CSS para uma experiência dinâmica.
+## ⚙️ Funcionalidades Principais
 
-Flexbox para layouts flexíveis.
+- 📘 Visualização de treinos planejados (exercícios, séries, repetições)  
+- 📊 Registro de progresso do usuário (peso, medidas, desempenho)  
+- 🔔 Alertas ou lembretes para sessões de treino  
+- 🎨 Interface amigável e responsiva para diferentes dispositivos  
+- 📱 Potencial para integração com banco de dados ou backend para persistência (futuro)
 
-JavaScript (ES6+): Para interações no front-end, como:
+---
 
-Controle de navegação (menu hambúrguer, scroll suave).
+## 🧩 Tecnologias Utilizadas
 
-Animações baseadas em scroll (se houver, como o AOS que você usou em outro projeto, verifique se este também usa).
+| Tecnologia | Função |
+|------------|--------|
+| **HTML5**  | Estrutura da interface |
+| **CSS3**   | Estilo e layout responsivo |
+| **JavaScript** | Lógica de interatividade e manipulação de dados |
 
-Interatividade geral da página.
+---
 
-💡 Funcionalidades e Seções Principais
-O site Grow Treino é dividido em várias seções intuitivas:
+## 🚀 Como Rodar Localmente
 
-Header (Cabeçalho): Navegação principal com links para as seções do site.
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/gabrielermogenes/Grow-Treino.git
 
-Hero Section (Seção Principal): Apresentação impactante da marca, com call-to-action.
+2. Acesse a pasta do projeto:
+   ```bash
+   cd Grow-Treino
 
-Sobre Nós: Informações sobre a empresa e sua missão.
+   
+3. Abra o arquivo index.html no navegador ou use um servidor local, por exemplo:
+  ```bash
+  npx http-server
 
-Planos de Treino: Detalhes sobre os diferentes pacotes de assinatura, com benefícios claros.
-
-Produtos (Roupas e Acessórios): Vitrine visual dos itens de vestuário e outros produtos oferecidos.
-
-Contato: Formulário de contato para que os usuários possam interagir com a empresa.
-
-Footer (Rodapé): Informações de contato adicionais e links úteis.
-
-🚀 Como Rodar o Projeto Localmente
-Para visualizar e explorar o código deste projeto em sua máquina:
-
-Clone o repositório:
-
-Bash
-
-git clone https://github.com/gabrielermogenes/Grow-Treino.git
-Navegue até o diretório do projeto:
-
-Bash
-
-cd Grow-Treino
-Abra o arquivo index.html:
-Simplesmente abra o arquivo index.html em seu navegador web preferido para ver a página.
-
-📸 Screenshots / Demonstração Visual
-(SUGESTÃO: Este é um dos pontos mais importantes! Adicione aqui algumas imagens de alta qualidade do seu site, mostrando o design em diferentes seções e, se possível, em diferentes tamanhos de tela (desktop e mobile).)
-
-Você pode usar serviços como Imgur ou GitHub's built-in image upload para hospedar suas imagens.
-
-Exemplo de como adicionar imagens:
-
-Markdown
-
-![Página Inicial - Grow Treino Desktop](link_para_sua_imagem_desktop_hero.png)
-![Seção de Planos - Grow Treino](link_para_sua_imagem_planos.png)
-![Grow Treino em Dispositivos Móveis](link_para_sua_imagem_mobile.png)
-📂 Estrutura de Pastas
-Grow-Treino/
-├── index.html           # Página principal do site
-├── style.css            # Estilos CSS globais
-├── script.js            # Lógica JavaScript para interatividade
-└── README.md            # Este arquivo
-✍️ Autor
-Gabriel Ermogenes
-
-GitHub
-
-(SUGESTÃO: Adicione aqui seu LinkedIn, Portfólio Pessoal ou outros contatos profissionais)
-
-📜 Licença
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo LICENSE (Se você pretende adicionar um arquivo de licença no seu repositório).
